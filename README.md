@@ -100,7 +100,4 @@ hough_tranform.py: The current working model
 
 
 +++++ Current Status +++++
-*	Now to match points from the cam world to real world , Very noisy, Will employ better approach soon
-
-* Opened repo to contributers
-
+*	This project has been completed and is available in bitbucket on request
